@@ -1,0 +1,21 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualNetworks_HUB_name": {
+            "value": null
+        },
+        "virtualNetworks_SPOKE_name": {
+            "value": null
+        },
+        "publicIPAddresses_GW_PIP_name": {
+            "value": null
+        },
+        "virtualNetworkGateways_HUB_GW_name": {
+            "value": null
+        },
+        "networkSecurityGroups_AVD_SPOKE_NSG_name": {
+            "value": null
+        }
+    }
+}
