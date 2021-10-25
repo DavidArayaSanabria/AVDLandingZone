@@ -16,10 +16,23 @@ Manage Windows 10 and 11, Windows Server, and Windows 7 desktops and apps with a
 Azure landing zones are the output of a multisubscription Azure environment that accounts for scale, security governance, networking, and identity. Azure landing zones enable application migration, modernization, and innovation at enterprise-scale in Azure. These zones consider all platform resources that are required to support the customer's application portfolio and don't differentiate between infrastructure as a service or platform as a service.
 
 ## Target audience
--	Developers
+
+- Infrastructure Architect
+- Application Developer
 -	IT Professional
 -	Cloud Solution Architect
 
-
+# How to deploy this Template
 
 ![alt image](https://github.com/DavidArayaSanabria/AVDLandingZone/blob/dad885cfb0c6fca8913d68e4daa8dd9e6ee41c92/AVD%20Landing%20Zone%20Diagram.png?raw=true)
+
+## Azure services and related products
+
+- Azure Virtual Desktop
+- Azure Networking
+- Security
+
+## Related references
+- https://docs.microsoft.com/en-us/azure/virtual-desktop/overview
+- https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/
+- https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-connect-virtual-networks-portal#peer-virtual-networks
