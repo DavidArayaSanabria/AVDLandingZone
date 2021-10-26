@@ -38,33 +38,33 @@ The [Template.json](Template.json) Azure Resource Manager template will help you
 
 ## Deploying an ARM Template using the Azure portal
 
-Visit https://portal.azure.com
+- Visit https://portal.azure.com
 
 Using the search bar on top type Templates
 
 ![alt image](https://github.com/DavidArayaSanabria/AVDLandingZone/blob/0c27bbe224b6c1e408883e4fd22b992d503549fd/Search.png?raw=true)
 
-Create a new template 
+- Create a new template 
 
 ![alt image](https://github.com/DavidArayaSanabria/AVDLandingZone/blob/8bd3fb167da7f7c76eb01954d73f1ce6948a9a41/create.png?raw=true)
 
-Give a name and a description to the template
+- Give a name and a description to the template
 
 ![alt image](https://github.com/DavidArayaSanabria/AVDLandingZone/blob/8bd3fb167da7f7c76eb01954d73f1ce6948a9a41/Name%20and%20Description.png?raw=true)
 
-Add for modified [Template.json](Template.json) and save it
+- Add for modified [Template.json](Template.json) and save it
 
 ![alt image](https://github.com/DavidArayaSanabria/AVDLandingZone/blob/8bd3fb167da7f7c76eb01954d73f1ce6948a9a41/add%20code.png?raw=true)
 
-Select the newly added template and click deploy
+- Select the newly added template and click deploy
 
 ![alt image](https://github.com/DavidArayaSanabria/AVDLandingZone/blob/8bd3fb167da7f7c76eb01954d73f1ce6948a9a41/Select%20and%20deploy%20template.png?raw=true)
 
-Fill out the blanks with your details and click purchase
+- Fill out the blanks with your details and click purchase
 
 [alt image](https://github.com/DavidArayaSanabria/AVDLandingZone/blob/8bd3fb167da7f7c76eb01954d73f1ce6948a9a41/Fill%20out%20the%20details%20and%20purchase.png?raw=true)
 
-Allow 30 minutes for the deployment to complete
+- Allow 30 minutes for the deployment to complete
 
 ## Azure services and related products
 
