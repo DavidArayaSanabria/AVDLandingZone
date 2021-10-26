@@ -65,6 +65,7 @@ Using the search bar on top type Templates
 [alt image](https://github.com/DavidArayaSanabria/AVDLandingZone/blob/8bd3fb167da7f7c76eb01954d73f1ce6948a9a41/Fill%20out%20the%20details%20and%20purchase.png?raw=true)
 
 - Allow 30 minutes for the deployment to complete
+- Peer your Hub and Spoke Virtual Networks as needed
 
 ## Azure services and related products
 
